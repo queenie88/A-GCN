@@ -12,11 +12,10 @@ Please enter the main folder, and run
 
     python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 
-
 ### Our pretrained models
 
-The coco will be update at (GoogleDrive)
-The fashion550k will be update at (GoogleDrive)
+\<br>The coco will be update at (GoogleDrive)
+\<br>The fashion550k will be update at (GoogleDrive)
 
 
 ### Citing this repository
