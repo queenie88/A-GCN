@@ -7,18 +7,18 @@
     * Python 3.6
 
 ### Demo COCO 2014
-
+Please enter the main folder, and run
     python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 
 
-### checkpoint/voc (GoogleDrive)
+### Our pretrained models
 The coco will be update at (GoogleDrive)
 The fashion550k will be update at (GoogleDrive)
 
 
 ### Citing this repository
-If you find this code useful in your research, please consider citing us:
-
+If you find our work helpful in your research, please kindly cite our paper:
+   Li Q, Peng X, Qiao Y, et al. Learning Category Correlations for Multi-label Image Recognition with Graph Networks[J]. arXiv preprint        arXiv:1909.13005, 2019.
     @article{li2019learning,
     title={Learning Category Correlations for Multi-label Image Recognition with Graph Networks},
     author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
