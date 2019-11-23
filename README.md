@@ -1,22 +1,22 @@
 # A-GCN
-##Learning Label Correlations for Multi-Label Image Recognition with Graph Networks
+## Learning Label Correlations for Multi-Label Image Recognition with Graph Networks
 
-###Requirements
+### Requirements
 
 Pytorch 0.3.1
 Python 3.6
 
-###Demo COCO 2014
+### Demo COCO 2014
 
 python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 
 
-###checkpoint/voc (GoogleDrive)
+### checkpoint/voc (GoogleDrive)
 The coco will be update at (GoogleDrive)
 The fashion550k will be update at (GoogleDrive)
 
 
-###Citing this repository
+### Citing this repository
 If you find this code useful in your research, please consider citing us:
 
 @article{li2019learning,
@@ -26,6 +26,6 @@ If you find this code useful in your research, please consider citing us:
   year={2019}
 }
 
-###Reference
+### Reference
 This project is based on https://github.com/Megvii-Nanjing/ML_GCN
 
