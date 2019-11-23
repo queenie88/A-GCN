@@ -8,7 +8,7 @@ Python 3.6
 
 ### Demo COCO 2014
 
-python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
+    python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 
 
 ### checkpoint/voc (GoogleDrive)
