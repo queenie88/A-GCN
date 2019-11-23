@@ -21,6 +21,7 @@ If you find our work helpful in your research, please kindly cite our paper:
 
    Li Q, Peng X, Qiao Y, et al. Learning Category Correlations for Multi-label Image Recognition with Graph Networks[J]. arXiv preprint        arXiv:1909.13005, 2019.
    
+   bib:
     @article{li2019learning,
     title={Learning Category Correlations for Multi-label Image Recognition with Graph Networks},
     author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
