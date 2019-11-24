@@ -14,8 +14,8 @@ Please enter the main folder, and run
 
 ### Our pretrained models
 
-<br>The coco will be update at (GoogleDrive)
-<br>The fashion550k will be update at (GoogleDrive)
+<br>The coco will be update at [GoogleDrive](https://drive.google.com/drive/folders/13xHdfSpXR6uVGXq_bJ3g2HTbNfcU1oBw?usp=sharing)
+<br>The fashion550k will be update at [GoogleDrive](https://drive.google.com/drive/folders/13xHdfSpXR6uVGXq_bJ3g2HTbNfcU1oBw?usp=sharing)
 
 
 ### Citing this repository
