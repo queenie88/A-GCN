@@ -10,7 +10,7 @@
 
 Please enter the main folder, and run
 
-    python3 demo_coco_gcn.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
+    python3 demo_coco__adapt.py --data data/coco --image-size 448 --batch-size 32 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 
 ### Our pretrained models
 
