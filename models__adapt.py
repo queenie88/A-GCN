@@ -109,7 +109,6 @@ class GCNResnet(nn.Module):
         x = torch.matmul(feature, x)
         A = A1.unsqueeze(0)
         adj = adj.unsqueeze(0)
-        A = torch.autograd.Variable(A)
         return x, adj, A
 
     def get_config_optim(self, lr, lrp):
