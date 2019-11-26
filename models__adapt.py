@@ -3,10 +3,9 @@ from torch.nn import Parameter
 from util import *
 import torch
 import torch.nn as nn
-# from lib.non_local_dot_product_q import NONLocalBlock1D
 
 
-# import pdb
+
 class NONLocalBlock1D(nn.Module):
     def __init__(self, in_channels, inter_channels=None):
         super(NONLocalBlock1D, self).__init__()
@@ -108,7 +107,7 @@ class GCNResnet(nn.Module):
         x = self.gc2(x, adj)
         x = x.transpose(0, 1)
         x = torch.matmul(feature, x)
-        A = torch.eye(80, 80).float().cuda().unsqueeze(0)
+        A = A1.unsqueeze(0)
         adj = adj.unsqueeze(0)
         A = torch.autograd.Variable(A)
         return x, adj, A
