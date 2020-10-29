@@ -26,15 +26,15 @@ Li Q, Peng X, Qiao Y, et al. Learning label correlations for multi-label image r
    
  bib:
    
-@article{li2020learning,
-  title={Learning label correlations for multi-label image recognition with graph networks},
-  author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
-  journal={Pattern Recognition Letters},
-  volume={138},
-  pages={378--384},
-  year={2020},
-  publisher={Elsevier}
-}
+ @article{li2020learning,
+   title={Learning label correlations for multi-label image recognition with graph networks},
+   author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
+   journal={Pattern Recognition Letters},
+   volume={138},
+   pages={378--384},
+   year={2020},
+   publisher={Elsevier}
+ }
 ### Reference
 
 This project is based on https://github.com/Megvii-Nanjing/ML_GCN
