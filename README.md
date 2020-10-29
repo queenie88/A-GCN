@@ -22,17 +22,19 @@ Please enter the main folder, and run
 
 If you find our work helpful in your research, please kindly cite our paper:
 
-   Li Q, Peng X, Qiao Y, et al. Learning Category Correlations for Multi-label Image Recognition with Graph Networks[J]. arXiv preprint        arXiv:1909.13005, 2019.
+Li Q, Peng X, Qiao Y, et al. Learning label correlations for multi-label image recognition with graph networks[J]. Pattern Recognition Letters, 2020, 138: 378-384.
    
  bib:
    
-    @article{li2019learning,
-    title={Learning Category Correlations for Multi-label Image Recognition with Graph Networks},
-    author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
-    journal={arXiv preprint arXiv:1909.13005},
-    year={2019}
-    }
-
+@article{li2020learning,
+  title={Learning label correlations for multi-label image recognition with graph networks},
+  author={Li, Qing and Peng, Xiaojiang and Qiao, Yu and Peng, Qiang},
+  journal={Pattern Recognition Letters},
+  volume={138},
+  pages={378--384},
+  year={2020},
+  publisher={Elsevier}
+}
 ### Reference
 
 This project is based on https://github.com/Megvii-Nanjing/ML_GCN
