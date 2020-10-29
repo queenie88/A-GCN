@@ -22,7 +22,7 @@ Please enter the main folder, and run
 
 If you find our work helpful in your research, please kindly cite our paper:
 
-    Li Q, Peng X, Qiao Y, et al. Learning label correlations for multi-label image recognition with graph networks[J]. Pattern Recognition Letters, 2020, 138: 378-384.
+    Qing iI, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning label correlations for multi-label image recognition with graph networks[J]. Pattern Recognition Letters, 2020, 138: 378-384.
    
  bib:
    
