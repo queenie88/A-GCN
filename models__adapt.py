@@ -101,7 +101,7 @@ class GCNResnet(nn.Module):
         A1 = torch.eye(80, 80).float().cuda()
         A1 = torch.autograd.Variable(A1)
         adj= adj+ A1
-        adj = gen_adj_new(adj).detach()
+        adj = gen_adj_new(adj)
         x = self.gc1(inp, adj)
         x = self.activate(x)
         x = self.gc2(x, adj)
